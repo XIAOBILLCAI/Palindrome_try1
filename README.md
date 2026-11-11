@@ -55,3 +55,5 @@ The Travis CI build must pass. 1% will be deducted for each reported code style
 error.
 
 
+## Test Status
+Assignment tests verified locally.
